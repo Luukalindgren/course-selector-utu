@@ -1,6 +1,8 @@
 
 # Course Selector Website
 
+# WORK IN PROGRESS!
+
 ## Overview
 
 This repository serves as a showcase for a Course Selector Website developed during my tenure as a Research Assistant at the University of Turku. This web application was designed to assist students and faculty in selecting and managing university courses efficiently.
@@ -46,4 +48,20 @@ I would like to express my gratitude to the University of Turku for providing th
 
 Please note that the source code for this project is the property of the University of Turku and is not available for public distribution. This repository serves solely as a demonstration of the project and its capabilities.
 
-# WORK IN PROGRESS!
+## Screenshots:
+
+<img src="https://github.com/Luukalindgren/course-selector-utu/assets/70708962/075933d7-afb4-4b7b-9cf0-de094d5c0342"  width="40%" />
+<img src="https://github.com/Luukalindgren/course-selector-utu/assets/70708962/6eaced21-0159-4c3d-820f-a3fcd0f6b1f8"  width="40%" />
+
+---
+
+<img src="https://github.com/Luukalindgren/course-selector-utu/assets/70708962/eb052cf3-75a1-43e1-974c-939e8dfc0951"  width="44%" />
+<img src="https://github.com/Luukalindgren/course-selector-utu/assets/70708962/b5f33eec-6dd8-4e73-b7d5-195681f869d4"  width="40%" />
+
+---
+
+<img src="https://github.com/Luukalindgren/course-selector-utu/assets/70708962/0a802589-17e9-4778-b1e4-a179513f7fda"  width="40%" />
+<img src="https://github.com/Luukalindgren/course-selector-utu/assets/70708962/a3b6ed83-4475-4751-98b5-b3681e95736b"  width="42.7%" />
+
+
+
