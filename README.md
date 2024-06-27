@@ -1,7 +1,7 @@
 
 # Course Selector Website
 
-# WORK IN PROGRESS!
+#### [Link to the website](https://kurssivalitsin.utu.fi/course-selector)
 
 ## Overview
 
