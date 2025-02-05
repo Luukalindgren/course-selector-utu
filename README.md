@@ -63,5 +63,12 @@ Please note that the source code for this project is the property of the Univers
 <img src="https://github.com/Luukalindgren/course-selector-utu/assets/70708962/0a802589-17e9-4778-b1e4-a179513f7fda"  width="40%" />
 <img src="https://github.com/Luukalindgren/course-selector-utu/assets/70708962/a3b6ed83-4475-4751-98b5-b3681e95736b"  width="42.7%" />
 
+## Video demo:
+
+
+
+https://github.com/user-attachments/assets/17e1b0dc-3af9-454c-81e3-e5ee532f8f32
+
+
 
 
