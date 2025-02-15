@@ -14,9 +14,11 @@ The Course Selector Website is a comprehensive web application that enables user
 - Browse available courses offered by the Open University.
 - Get filtered course suggestions that is based on your previous knowledge and desired job role.
 - Search different career paths in IT sector via Job Roles page.
+- Search different technologies used in IT jobs via Technologies page.
 - Create professional CV and great Github repositories with guidelines provided by CV page.
+- Find out suitable IT community for you from Communities page.
 
-The website aims to streamline the course selection process, making it more intuitive and accessible for students and faculty members.
+The website aims to streamline the course selection process, making it more intuitive and accessible for students and faculty members. It also gives you lot of related info of IT job sector.
 
 ## Features
 
@@ -33,7 +35,7 @@ The project was developed using the following technologies:
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: GitLab OAuth2
-- **Hosting**: Docker, UTU's virtual server
+- **Hosting**: Docker, UTU's linux virtual server
 
 
 ## Collaboration
